@@ -13,10 +13,10 @@ def parseMethodToken(test: str):
 
 
 class WeibanAPI:
-    tenantCode = ''
-    x_token = ' '
-    userId = ' '
-    userProjectId = ' '
+    tenantCode = '52900001'
+    x_token = '47f922a2-0329-4816-9fcc-f852a404b8d4 '
+    userId = '214c67cb-5137-418f-bb5f-e6aba3fdc2ba '
+    userProjectId = 'b2eea40e-140d-4ea7-b333-fe759228e492 '
     headers = None
 
     def __init__(self, token, user_id, user_project_id, tenant_code):
