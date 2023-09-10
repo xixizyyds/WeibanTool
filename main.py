@@ -3,10 +3,10 @@ import json
 
 import weibanapi
 
-x_token = '47f922a2-0329-4816-9fcc-f852a404b8d4'
-user_id = '214c67cb-5137-418f-bb5f-e6aba3fdc2ba'
-user_project_id = 'b2eea40e-140d-4ea7-b333-fe759228e492'
-tenant_code = '52900001'
+x_token = ''
+user_id = ''
+user_project_id = ''
+tenant_code = ''
 
 
 # 1.  showProgess 获取课程进度
